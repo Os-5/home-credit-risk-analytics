@@ -1,0 +1,18 @@
+# Dataset and Raw Files (Too large for GitHub)
+data/
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# OS Specific
+Thumbs.db
+.DS_Store
