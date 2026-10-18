@@ -14,8 +14,8 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # ---------- CONFIG: edit these two lines if needed ----------
-SERVER = "G3EEFAR"      # e.g. "localhost", r".\SQLEXPRESS", or "DESKTOP-XXXX"
-DRIVER = "ODBC Driver 17 for SQL Server"   # or "ODBC Driver 18 for SQL Server"
+SERVER = "localhost"      
+DRIVER = "ODBC Driver 17 for SQL Server"
 # -------------------------------------------------------------
 
 DATABASE = "HomeCreditDB"
