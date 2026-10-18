@@ -14,7 +14,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # ---------- CONFIG: use the SAME values as the other loaders ----------
-SERVER = "G3EEFAR"
+SERVER = "localhost"
 DRIVER = "ODBC Driver 17 for SQL Server"
 # ----------------------------------------------------------------------
 
